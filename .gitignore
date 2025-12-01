@@ -4,9 +4,16 @@ data/
 *.csv
 
 # Ignorar arquivos gerados pelo sistema/python
+<<<<<<< HEAD
 __pycache__/
+=======
+_pycache_/
+>>>>>>> fa72c828eada649a7f60577913584242e8cc585d
 *.pyc
 venv/
 .env
 .DS_Store
+<<<<<<< HEAD
 data/censo_escolar2024.csv
+=======
+>>>>>>> fa72c828eada649a7f60577913584242e8cc585d
