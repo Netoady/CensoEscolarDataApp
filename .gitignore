@@ -4,7 +4,7 @@ data/
 *.csv
 
 # Ignorar arquivos gerados pelo sistema/python
-__pycache__/
+_pycache_/
 *.pyc
 venv/
 .env
