@@ -1,0 +1,12 @@
+```text
+# Ignorar dados brutos (CSV gigante)
+data/
+*.csv
+
+# Ignorar arquivos gerados pelo sistema/python
+__pycache__/
+*.pyc
+venv/
+.env
+.DS_Store
+data/censo_escolar2024.csv
